@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_31.gradesAndPoints" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="GradesAndPoints" />
+    <module name="Part01_31.gradesAndPoints" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

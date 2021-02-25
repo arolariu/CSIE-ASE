@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_25.CheckYourIndentation" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="CheckYourIndentation" />
+    <module name="Part01_25.CheckYourIndentation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

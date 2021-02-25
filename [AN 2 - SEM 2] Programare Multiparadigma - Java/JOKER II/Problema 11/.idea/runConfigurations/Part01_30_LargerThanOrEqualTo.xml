@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_30.LargerThanOrEqualTo" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LargerThanOrEqualTo" />
+    <module name="Part01_30.LargerThanOrEqualTo" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
