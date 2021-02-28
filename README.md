@@ -1,2 +1,30 @@
 # CSIE-ASE
-Materials and resolved problems / applications for the Faculty of Cybernetics , Statistics and Informatics of the Bucharest University of Economic Studies, Bucharest, Romania.
+
+[RO]
+
+Acest repository contine probleme de informatica rezolvate intr-un mod **corect, concret si eficient**.
+
+Structura acestui repository este urmatoarea:
+
+```cpp
+REPOSITORY:
+           -> AN I :
+                    -> Bazele Programarii Calculatoarelor (C)
+                    -> Bazele Tehnologiei Informatiei (C / Python)
+                    -> Algoritmi si Tehnici de Programare (C)
+           -> AN II :
+                    -> Programare Orientata pe Obiecte (C++)
+                    -> Programare Evolutiva si Algoritmi Genetici (Python)
+                    -> Programare Multiparadigma (Java)
+                    -> Algoritmi si Structuri de Date (C / C++)
+                    -> Programarea Aplicatiilor Windows (C#)
+           -> AN III :
+                    -> Tehnologii Web (PHP / JS)
+                    -> Programarea Aplicatiilor Android (Java / Kotlin)
+           -> BONUS :
+                    -> Robotica (Java / Python)
+                    -> Securitate (C / C++)
+                    -> Programarea Aplicatiilor iOS (Swift)
+                    -> Programarea Aplicatilor Android (Flutter / Kotlin)
+                    -> Inteligenta Artificiala si Machine Learning (Python / R)
+```
