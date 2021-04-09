@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_07.OnlyPositives" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="OnlyPositives" />
+    <module name="Part02_07.OnlyPositives" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
