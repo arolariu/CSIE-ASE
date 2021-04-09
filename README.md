@@ -19,11 +19,12 @@ REPOSITORY:
                     -> Algoritmi si Structuri de Date (C / C++)
                     -> Programarea Aplicatiilor Windows (C#)
            -> AN III :
-                    -> Tehnologii Web (PHP / JS)
-                    -> Programarea Aplicatiilor Android (Java / Kotlin)
+                    -> Tehnologii Web (HTML5, CSS3, JavaScript)
+                    -> Programarea Aplicatiilor Android (Java)
            -> BONUS :
                     -> Robotica (Java / Python)
                     -> Securitate (C / C++)
+                    -> Tehnologii Web (PHP, WebAssembly)
                     -> Programarea Aplicatiilor iOS (Swift)
                     -> Programarea Aplicatilor Android (Flutter / Kotlin)
                     -> Inteligenta Artificiala si Machine Learning (Python / R)
