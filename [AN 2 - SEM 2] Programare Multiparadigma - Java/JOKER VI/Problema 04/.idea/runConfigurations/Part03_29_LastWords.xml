@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_29.LastWords" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LastWords" />
+    <module name="Part03_29.LastWords" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

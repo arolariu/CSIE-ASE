@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_03.IndexOutOfBoundsException" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="IoobProgram" />
+    <module name="Part03_03.IndexOutOfBoundsException" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

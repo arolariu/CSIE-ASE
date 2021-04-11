@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_06.FirstAndLast" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="FirstAndLast" />
+    <module name="Part03_06.FirstAndLast" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
