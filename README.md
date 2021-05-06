@@ -5,8 +5,7 @@
 Acest repository contine probleme de informatica rezolvate intr-un mod **corect, concret si eficient**.
 
 Structura acestui repository este urmatoarea:
-
-```cpp
+```bash
 REPOSITORY:
            -> AN I :
                     -> Bazele Programarii Calculatoarelor (C)
